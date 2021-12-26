@@ -5,8 +5,8 @@ AKA: Git-Forked
 Source Code:  https://github.com/Git-Forked/RetroarchCheatFileReducer/
 License: GPL-3.0
 
-NOTES:
-requires: pip install easygui
+Requisites:
+pip install easygui
 or set a file manually.
 """
 
