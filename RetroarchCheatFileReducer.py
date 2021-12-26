@@ -3,6 +3,7 @@ Retroarch Cheat File Reducer
 Scripted by: RB
 AKA: Git-Forked
 Source Code:  https://github.com/Git-Forked/RetroarchCheatFileReducer/
+License: GPL-3.0
 
 NOTES:
 requires: pip install easygui
