@@ -1,0 +1,53 @@
+cheats = 3264
+
+cheat90_desc = "Save Anywhere"
+cheat90_code = "7E0A5320"
+cheat90_enable = false
+
+cheat101_desc = "No Random Battles(Overworld)"
+cheat101_code = "7E16A900"
+cheat101_enable = false
+
+cheat27_desc = "No Random Battles(Dungeons)"
+cheat27_code = "7E0B4F00"
+cheat27_enable = false
+
+cheat33_desc = "Walk At Maximum Speed"
+cheat33_code = "7E0AFA7F"
+cheat33_enable = false
+
+cheat45_desc = "Master Any Job in 1 Battle"
+cheat45_code = "DD96-EFA6"
+cheat45_enable = false
+
+cheat56_desc = "Infinite Items Outside of Battle"
+cheat56_code = "8239-EDD6"
+cheat56_enable = false
+
+cheat66_desc = "Walk Through All Except Deep Water On World Map"
+cheat66_code = "5DF8-5DDD"
+cheat66_enable = false
+
+cheat78_desc = "Use 'Sort' To Get 90 Of All Items"
+cheat78_code = "3C39-7F66+3C39-7FA6+6C39-74D6+CB31-7706+9C31-7766"
+cheat78_enable = false
+
+cheat81_desc = "Infinite HP First Person Slot"
+cheat81_code = "7E2006E7+7E200603"
+cheat81_enable = false
+
+cheat999_desc = "Attack Gauge Always Full"
+cheat999_code = "7E3D7F00"
+cheat999_enable = false
+
+cheat120_desc = "Infinite HP Second Person Slot"
+cheat120_code = "7E2086E7+7E208603"
+cheat120_enable = false
+
+cheat111_desc = "Attack Gauge Always Full"
+cheat111_code = "7E3D8A00"
+cheat111_enable = false
+
+cheat123_desc = "Infinite HP Third Person Slot"
+cheat123_code = "7E2106E7+7E210603"
+cheat123_enable = false
