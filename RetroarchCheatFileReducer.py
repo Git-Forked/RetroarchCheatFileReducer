@@ -84,7 +84,7 @@ with open(file_path, 'r') as file:
                     substring_previous = substring
 
 # Write cheat total to top of file.
-replaced_content = "cheats = " + str(n+1) + "\n" + replaced_content
+replaced_content = "cheats = " + str(n+1) + "\n\n" + replaced_content
 # Print new content to the console.
 if verbose == True: print("\nNew content: \n\n" + replaced_content)
 
