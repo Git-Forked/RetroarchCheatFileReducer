@@ -1,4 +1,5 @@
 cheats = 13
+
 cheat0_desc = "Save Anywhere"
 cheat0_code = "7E0A5320"
 cheat0_enable = false
