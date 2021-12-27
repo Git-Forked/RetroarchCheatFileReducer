@@ -55,7 +55,7 @@ with open(file_path, 'r') as file:
         line = line.strip()
         # Ignore empty lines
         if not line.isspace():
-            # Ignore the "cheats = ??"" line.
+            # Ignore the "cheats = ??" line.
             if not "cheats" in line:
                 # Make sure line contains "cheats".
                 if "cheat" in line:
