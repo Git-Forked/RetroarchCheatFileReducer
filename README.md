@@ -1,7 +1,7 @@
 # Retroarch Cheat File Reducer
 
 # Description
-Aides to reduce a cheat file with a personal selection of the cheats you want to use. 
+Aids to reduce a cheat file with a personal selection of the cheats you want to use. 
 
 # Instructions
 Copy a selection of cheats you wish to have to a new file, like: Test.cht
