@@ -96,4 +96,4 @@ if use_easygui == True:
     file_path = easygui.filesavebox()
 with open(file_path, 'w') as file:
         file.write(replaced_content)
-print("Filed saved as: " + file_path + "\n")
+print("File saved as: " + file_path + "\n")
